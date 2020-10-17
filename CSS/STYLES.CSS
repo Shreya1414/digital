@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+    
+}
+p {
+    color:  #373a40;
+    font-family: 'Merriweather', serif;
+    text-shadow: aliceblue;
+    font-size: 2.5rem;
+}
+
+.top {
+    background-color: #555555;
+    
+}
+h1 {
+    color: aliceblue;
+}
+h2 {
+    color: #cdc9c3;
+}
+.india {
+    width: 50%;
+}
+.taj {
+    width: 25%;
+}
+.mid-one {
+    background-color: #968c83;
+    padding: 50px 0 10px;
+}
+.bottom {
+    background-color: #555555;
+    padding: 50px 0 10px;
+}
+.copy {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+a {
+    color:  aliceblue;
+    font-family: 'Montserrat' sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover {
+    color: #94b4a4;
+}
+
+
